@@ -4,6 +4,14 @@ Windows 桌面上的轻量待办与工作记录工具，支持项目管理、工
 
 使用 PowerShell + WPF 编写，无需安装程序；核心功能不需要额外安装 Python 或 Microsoft Office。
 
+## 界面预览
+
+### 桌面待办小窗
+
+<img src="screenshot-todo.png" alt="桌面待办小窗：待办提醒与进展记录" width="360" />
+
+### 工作台月视图
+
 ![工作台月视图](screenshot-workbench.png)
 
 ## 功能
